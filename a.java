@@ -4,6 +4,6 @@ public class a{
     for(int i=10;i > 0;i--)
       System.out.println("Hello");
     
-    throw new Exception();
+    //throw new Exception();
   }
 }
